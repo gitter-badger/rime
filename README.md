@@ -1,0 +1,4 @@
+rime
+====
+
+Rime programming language
